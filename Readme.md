@@ -2,9 +2,9 @@ create a node.js project
 
 install redux
 
-import redux and assign it to a variable calld CreateStore
+import redux and assign it to a variable calld { CreateStore }
 
-create a state
+create a state variable with initial data
 
 create a reducer file or function
 
